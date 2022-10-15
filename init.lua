@@ -1,0 +1,6 @@
+require('bootstrap-packer')
+require('utils')
+require('settings')
+require('plugins')
+require('keybindings')
+require('au')
