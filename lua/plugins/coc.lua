@@ -101,6 +101,7 @@ vim.cmd([[
       \'coc-pairs',
       \'coc-json',
       \'coc-jest',
+      \'coc-eslint',
       \'coc-emmet',
       \'coc-css',
       \'coc-markdownlint',
