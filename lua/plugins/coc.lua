@@ -108,6 +108,9 @@ vim.cmd([[
       \'coc-highlight',
       \'coc-go',
       \'coc-python',
-      \'coc-git'
+      \'coc-git',
+      \'coc-phpls',
+      \'coc-stylelint',
+      \'coc-elixir'
     \]
 ]])
