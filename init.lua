@@ -1,6 +1,6 @@
 require('bootstrap-packer')
 require('utils')
-require('settings')
 require('plugins')
+require('settings')
 require('keybindings')
 require('au')
